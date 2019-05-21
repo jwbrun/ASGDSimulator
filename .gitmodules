@@ -1,0 +1,6 @@
+[submodule "convNet.pytorch"]
+	path = convNet.pytorch
+	url = https://github.com/eladhoffer/convNet.pytorch.git
+[submodule "cifar10-fast"]
+	path = cifar10-fast
+	url = https://github.com/davidcpage/cifar10-fast.git
