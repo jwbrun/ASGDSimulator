@@ -1,0 +1,12 @@
+*.log
+*.npz
+*.csv
+*.idea
+__pycache__
+_stochastic_optimizers.py
+*.md
+testing_stuff.py
+Notes
+dump
+*.pkl
+*.zip
