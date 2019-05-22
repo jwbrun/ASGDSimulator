@@ -1,3 +1,4 @@
 # ASGDSymulator
-cifar10-fast uses commit @f00c6ba
-convNet.pytorch uses commit "298fb46
+All files in these two folders are not my work:
+cifar10fast uses commit @f00c6ba
+convNet uses commit "298fb46
