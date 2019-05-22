@@ -474,7 +474,9 @@ class MomentumWrapperCorrection(BaseWrapper):
 
 
 class MomentumWrapperEamsgd(UpdadteFunction):
-
+    """
+    Based on this paper https://cs.nyu.edu/~zsx/nips2015.pdf
+    """
     def __init__(self, flags, agents, gpu_nr, memory_fraction, weights, scale, staleness_aware):
         super().__init__(flags,agents, gpu_nr, memory_fraction, weights)
         self.times = []
